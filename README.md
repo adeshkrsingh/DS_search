@@ -16,5 +16,18 @@
         <li>Linear Search</li>
         <li>Ternary Search</li>
     </ul>
+
+    <p>To run java file</p>
+    <p>Step 1 - Compile the code using command :
+        <b>javac Filename.java</b>
+    </p>
+    <p>Step 2 - Run the code using the command :
+        <b>java Filename</b>
+    </p>
+    <hr>
+    <p>To run javascript file (NodeJS file) </p>
+    <p>Step 1 - Run the code using command :
+        <b>node Filename.js</b>
+    </p>
 </body>
 </html>
