@@ -7,16 +7,6 @@
 </head>
 <body>
     <p>This is Data Structure Practice repo. </p>
-    <hr>
-    <p>Topics Includes :</p>
-    <ul>
-        <li>Binary Search</li>
-        <li>Depth First Search</li>
-        <li>Interpolation Search</li>
-        <li>Linear Search</li>
-        <li>Ternary Search</li>
-    </ul>
-
     <p>To run java file</p>
     <p>Step 1 - Compile the code using command :
         <b>javac Filename.java</b>
@@ -29,5 +19,16 @@
     <p>Step 1 - Run the code using command :
         <b>node Filename.js</b>
     </p>
+    <hr>
+    <p>Topics Includes :</p>
+    <ul>
+        <li>Binary Search</li>
+        <li>Depth First Search</li>
+        <li>Interpolation Search</li>
+        <li>Linear Search</li>
+        <li>Ternary Search</li>
+    </ul>
+
+    
 </body>
 </html>
